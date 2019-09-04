@@ -1,0 +1,1 @@
+We did not get TTL to update if there's CNAME in cache links to our query node.

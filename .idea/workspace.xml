@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65c241bb-352e-4dd9-bcf8-7e29f093e238" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/DNSNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/DNSLookupService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="500" column="73" selection-start-line="500" selection-start-column="73" selection-end-line="500" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/RCodeError.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/SOAError.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/DNSCache.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/Query.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/ResourceRecord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/RecordType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/Response.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2482">
+              <caret line="146" column="34" selection-start-line="146" selection-start-column="34" selection-end-line="146" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/EncodeQueryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2584">
+              <caret line="152" selection-start-line="152" selection-end-line="152" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>decodename</find>
+      <find>inet</find>
+      <find>ns</find>
+      <find>Match</find>
+      <find>34.230.135.168</find>
+      <find>initialServer =</find>
+      <find>System.out.println</find>
+      <find>rootnode = null</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/EncodeQueryTest.java" />
+        <option value="$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/Question.java" />
+        <option value="$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/Response.java" />
+        <option value="$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/SOAError.java" />
+        <option value="$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/Query.java" />
+        <option value="$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/DNSLookupService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="26" />
+    <option name="y" value="92" />
+    <option name="width" value="1908" />
+    <option name="height" value="946" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="A2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551768757283" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../A1" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="DNSLookupService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.ubc.cs.cs317.dnslookup.DNSLookupService" />
+      <module name="A2" />
+      <option name="PROGRAM_PARAMETERS" value="199.7.83.42" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ubc.cs.cs317.dnslookup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncodeQueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="A2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.EncodeQueryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ck-d\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65c241bb-352e-4dd9-bcf8-7e29f093e238" name="Default Changelist" comment="" />
+      <created>1551562365774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551562365774</updated>
+      <workItem from="1551562368808" duration="58164000" />
+      <workItem from="1551712505378" duration="31535000" />
+      <workItem from="1552670863648" duration="11000" />
+      <workItem from="1553622823068" duration="4000" />
+      <workItem from="1562876251145" duration="539000" />
+    </task>
+    <task id="LOCAL-00001" summary="- update Question() &amp; Query() ipType from String to RecordType&#10;- update strings comparison to include .toString() from RecordType">
+      <created>1551563795420</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551563795420</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update:&#10;- UDP sending&#10;- response is positive&#10;Needs to implement:&#10;- iterative query with iteration limit?&#10;- output response">
+      <created>1551566933532</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551566933532</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update:&#10;- identifying response&#10;Needs to implement:&#10;- iterative query with iteration limit?&#10;- output response">
+      <created>1551568166653</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551568166653</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update:&#10;- identifying response complete&#10;Needs to implement:&#10;- iterative query with iteration limit?&#10;- output response">
+      <created>1551568959479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551568959479</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update:&#10;- identifying response complete v1.0&#10;Needs to implement:&#10;- iterative query with iteration limit?&#10;- output response">
+      <created>1551569947513</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551569947513</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update:&#10;- catch buffer out of bound error&#10;Needs to implement:&#10;- iterative query with iteration limit?&#10;- output response">
+      <created>1551576846981</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1551576846981</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update:&#10;&#10;Needs to implement:&#10;- iterative query with iteration limit?&#10;- output response">
+      <created>1551584484481</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1551584484481</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update:&#10;- iteratively making request to ns, but it's sending request to the last RR only.  &#10;Needs to Resolve:&#10;- iterating through cached RR correctly to send request to different ns. &#10;- output response">
+      <created>1551594826955</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1551594826955</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update:&#10;-- added comment to explain problem&#10;- iteratively making request to ns, but it's sending request to the last RR only.  &#10;Needs to Resolve:&#10;- iterating through cached RR correctly to send request to different ns. &#10;- output response">
+      <created>1551595156873</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1551595156873</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update:&#10;- lookup reddit.com &amp; lookup www.cs.ubc.ca working now &#10;Needs to Resolve:&#10;- CNAME needs to work on&#10;- maybe we need a better algorithm to iterate through the records&#10;  The current method requires too much hard code on variables and it's&#10;  still lacking">
+      <created>1551604358663</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1551604358663</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update:&#10;- Response now keeps record of query directly&#10;Needs to Resolve:&#10;- CNAME needs to work on&#10;- maybe we need a better algorithm to iterate through the records&#10;  The current method requires too much hard code on variables and it's&#10;  still lacking">
+      <created>1551651202051</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1551651202051</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update:&#10;- functionality resumes to 1am spec &#10;- answers, nameservers &amp; additional all return as an ArrayList&#10;  directly from Response class now.&#10;Needs to Resolve:&#10;- decodeName has bug that needs to resolve&#10;  lookup www.stanford.edu will cause out of bound reading listOfBytes&#10;  at the 4th entry">
+      <created>1551658151046</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1551658151046</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update:&#10;- comment stuff&#10;Needs to Resolve:&#10;- decodeName has bug that needs to resolve&#10;  lookup www.stanford.edu will cause out of bound reading listOfBytes&#10;  at the 4th entry">
+      <created>1551659373353</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1551659373353</updated>
+    </task>
+    <task id="LOCAL-00014" summary="INCOMPLETE CODE&#10;-logging">
+      <created>1551662836979</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1551662836979</updated>
+    </task>
+    <task id="LOCAL-00015" summary="INCOMPLETE CODE&#10;- recursion involve nameservers is a mess">
+      <created>1551669639679</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1551669639679</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update:&#10;- working on recursion fix">
+      <created>1551675557939</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1551675557939</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Update:&#10;- lot of lookup now works (www.stanford.edu, www.ubc.ca,&#10;  www.cs.ubc.ca, www.ugrad.cs.ubc.ca)&#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )">
+      <created>1551679506497</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1551679506497</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Update:&#10;- lot of lookup now works (www.stanford.edu, www.ubc.ca,&#10;  www.cs.ubc.ca, www.ugrad.cs.ubc.ca)&#10;Need to implement:&#10;- still need to add AAAA (IPv6) query code?&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )">
+      <created>1551679720244</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1551679720244</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Update:&#10;- trace on|off prototype &#10;- lot of lookup now works (www.stanford.edu, www.ubc.ca,&#10;  www.cs.ubc.ca, www.ugrad.cs.ubc.ca)&#10;Need to implement:&#10;- still need to add AAAA (IPv6) query code?&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )">
+      <created>1551680290917</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1551680290917</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Update:&#10;- rootSever now revert back to initial server after lookup&#10;  &#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )">
+      <created>1551720253322</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1551720253322</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Update:&#10;- added cache check if cname of rootNode is available, &#10;  it will lookup cname.node instead of rootNode&#10;  (performance improvement mostly)&#10;- rootServer now revert back to initial server after lookup&#10;  &#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )">
+      <created>1551723445584</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1551723445584</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update:&#10;- logging before pull &#10;&#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )">
+      <created>1551732405918</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1551732405918</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Update:&#10;- improved answer recognition (www.reddit.com working properly)&#10;&#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )">
+      <created>1551734383001</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1551734383001</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Update:&#10;- www.microsoft.com AAAA working properly&#10;&#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )">
+      <created>1551736181623</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1551736181623</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Update:&#10;- finance.google.ca is working properly&#10;- www.microsoft.com AAAA working properly&#10;&#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )">
+      <created>1551747347065</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1551747347065</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Update:&#10;- console print cleared up&#10;- SOA handled">
+      <created>1551754058421</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1551754058421</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Update:&#10;- fix AAAA lookup after A lookup of same url">
+      <created>1551755610908</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1551755610908</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Update:&#10;- server now will revert back to default DNS if it's been &#10;  manually changed">
+      <created>1551764772309</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1551764772309</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Update:&#10;- server now will revert back to default DNS if it's been &#10;  manually changed&#10;- cant get TTL to update when CNAME is involved">
+      <created>1551766653789</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1551766653789</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Added README">
+      <created>1551768289984</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1551768289984</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="EncodeQueryTest - 2019.03.02 at 14h 24m 36s.xml">
+      <configuration name="EncodeQueryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncodeQueryTest - 2019.03.02 at 14h 24m 58s.xml">
+      <configuration name="EncodeQueryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncodeQueryTest - 2019.03.02 at 14h 25m 13s.xml">
+      <configuration name="EncodeQueryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncodeQueryTest - 2019.03.02 at 14h 25m 19s.xml">
+      <configuration name="EncodeQueryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncodeQueryTest - 2019.03.02 at 14h 26m 23s.xml">
+      <configuration name="EncodeQueryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncodeQueryTest - 2019.03.02 at 14h 26m 34s.xml">
+      <configuration name="EncodeQueryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncodeQueryTest - 2019.03.02 at 14h 27m 58s.xml">
+      <configuration name="EncodeQueryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncodeQueryTest - 2019.03.02 at 14h 28m 37s.xml">
+      <configuration name="EncodeQueryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncodeQueryTest - 2019.03.02 at 14h 30m 21s.xml">
+      <configuration name="EncodeQueryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncodeQueryTest - 2019.03.02 at 14h 32m 07s.xml">
+      <configuration name="EncodeQueryTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="90253000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="13" y="46" width="954" height="473" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13943355" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30381304" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398524" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32968238" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32718328" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.32894737" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32972386" />
+      <window_info anchor="right" id="make" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update:&#10;&#10;Needs to implement:&#10;- iterative query with iteration limit?&#10;- output response" />
+    <MESSAGE value="Update:&#10;- iteratively making request to ns, but it's sending request to the last RR only.  &#10;Needs to Resolve:&#10;- iterating through cached RR correctly to send request to different ns. &#10;- output response" />
+    <MESSAGE value="Update:&#10;-- added comment to explain problem&#10;- iteratively making request to ns, but it's sending request to the last RR only.  &#10;Needs to Resolve:&#10;- iterating through cached RR correctly to send request to different ns. &#10;- output response" />
+    <MESSAGE value="Update:&#10;- lookup reddit.com &amp; lookup www.cs.ubc.ca working now &#10;Needs to Resolve:&#10;- CNAME needs to work on&#10;- maybe we need a better algorithm to iterate through the records&#10;  The current method requires too much hard code on variables and it's&#10;  still lacking" />
+    <MESSAGE value="Update:&#10;- Response now keeps record of query directly&#10;Needs to Resolve:&#10;- CNAME needs to work on&#10;- maybe we need a better algorithm to iterate through the records&#10;  The current method requires too much hard code on variables and it's&#10;  still lacking" />
+    <MESSAGE value="Update:&#10;- functionality resumes to 1am spec &#10;- answers, nameservers &amp; additional all return as an ArrayList&#10;  directly from Response class now.&#10;Needs to Resolve:&#10;- decodeName has bug that needs to resolve&#10;  lookup www.stanford.edu will cause out of bound reading listOfBytes&#10;  at the 4th entry" />
+    <MESSAGE value="Update:&#10;- comment stuff&#10;Needs to Resolve:&#10;- decodeName has bug that needs to resolve&#10;  lookup www.stanford.edu will cause out of bound reading listOfBytes&#10;  at the 4th entry" />
+    <MESSAGE value="INCOMPLETE CODE&#10;-logging" />
+    <MESSAGE value="INCOMPLETE CODE&#10;- recursion involve nameservers is a mess" />
+    <MESSAGE value="Update:&#10;- working on recursion fix" />
+    <MESSAGE value="Update:&#10;- lot of lookup now works (www.stanford.edu, www.ubc.ca,&#10;  www.cs.ubc.ca, www.ugrad.cs.ubc.ca)&#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )" />
+    <MESSAGE value="Update:&#10;- lot of lookup now works (www.stanford.edu, www.ubc.ca,&#10;  www.cs.ubc.ca, www.ugrad.cs.ubc.ca)&#10;Need to implement:&#10;- still need to add AAAA (IPv6) query code?&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )" />
+    <MESSAGE value="Update:&#10;- trace on|off prototype &#10;- lot of lookup now works (www.stanford.edu, www.ubc.ca,&#10;  www.cs.ubc.ca, www.ugrad.cs.ubc.ca)&#10;Need to implement:&#10;- still need to add AAAA (IPv6) query code?&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )" />
+    <MESSAGE value="Update:&#10;- rootSever now revert back to initial server after lookup&#10;  &#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )" />
+    <MESSAGE value="Update:&#10;- added cache check if cname of rootNode is available, &#10;  it will lookup cname.node instead of rootNode&#10;  (performance improvement mostly)&#10;- rootServer now revert back to initial server after lookup&#10;  &#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )" />
+    <MESSAGE value="Update:&#10;- logging before pull &#10;&#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )" />
+    <MESSAGE value="Update:&#10;- improved answer recognition (www.reddit.com working properly)&#10;&#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )" />
+    <MESSAGE value="Update:&#10;- www.microsoft.com AAAA working properly&#10;&#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )" />
+    <MESSAGE value="Update:&#10;- finance.google.ca is working properly&#10;- www.microsoft.com AAAA working properly&#10;&#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )" />
+    <MESSAGE value="Update:&#10;- console print cleared up&#10;- SOA handled&#10;&#10;Need to implement:&#10;- check if cache has cname of the url&#10;- other null pointer handling( unsure if the common&#10;  exceptions are handled )" />
+    <MESSAGE value="Update:&#10;- console print cleared up&#10;- SOA handled" />
+    <MESSAGE value="Update:&#10;- fix AAAA lookup after A lookup of same url" />
+    <MESSAGE value="Update:&#10;- server now will revert back to default DNS if it's been &#10;  manually changed" />
+    <MESSAGE value="Update:&#10;- server now will revert back to default DNS if it's been &#10;  manually changed&#10;- cant get TTL to update when CNAME is involved" />
+    <MESSAGE value="Added README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added README" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="947" column="23" selection-start-line="947" selection-start-column="23" selection-end-line="947" selection-end-column="23" />
+          <folding>
+            <element signature="e#32809#32810#0" expanded="true" />
+            <element signature="e#32852#32853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29384">
+          <caret line="1060" selection-start-line="1060" selection-end-line="1060" />
+          <folding>
+            <element signature="e#44830#44831#0" expanded="true" />
+            <element signature="e#45120#45121#0" expanded="true" />
+            <element signature="e#45185#45186#0" expanded="true" />
+            <element signature="e#45335#45336#0" expanded="true" />
+            <element signature="e#45400#45401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/DNSNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/RCodeError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/SOAError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/DNSCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/Query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/ResourceRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/RecordType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="146" column="34" selection-start-line="146" selection-start-column="34" selection-end-line="146" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/EncodeQueryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2584">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ca/ubc/cs/cs317/dnslookup/DNSLookupService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="500" column="73" selection-start-line="500" selection-start-column="73" selection-end-line="500" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
